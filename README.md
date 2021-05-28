@@ -6,4 +6,6 @@
 4. https://prathameshjadhav043.github.io/Assginments/class2/Task2
 5. https://prathameshjadhav043.github.io/Assginments/class2/Task3
 6. https://prathameshjadhav043.github.io/Assginments/class2/Task4
+7. https://prathameshjadhav043.github.io/Assginments/class3
+
 

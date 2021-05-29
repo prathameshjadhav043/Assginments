@@ -1,10 +1,10 @@
 # Assginments
 
 1. https://prathameshjadhav043.github.io/portfolio/
-2. Task 1. ( https://prathameshjadhav043.github.io/Assginments/class2/Task1 )
-   Task 2. ( https://prathameshjadhav043.github.io/Assginments/class2/Task2 )
-   Task 3. ( https://prathameshjadhav043.github.io/Assginments/class2/Task3 )
-   Task 4. ( https://prathameshjadhav043.github.io/Assginments/class2/Task4 )
+2. Task 1. ( https://prathameshjadhav043.github.io/Assginments/class2/Task1 )....
+   Task 2. ( https://prathameshjadhav043.github.io/Assginments/class2/Task2 )....
+   Task 3. ( https://prathameshjadhav043.github.io/Assginments/class2/Task3 )....
+   Task 4. ( https://prathameshjadhav043.github.io/Assginments/class2/Task4 )....
 3. https://prathameshjadhav043.github.io/Assginments/class3
 4. https://prathameshjadhav043.github.io/Assginments/Class4
 5. https://prathameshjadhav043.github.io/Assginments/Calculator

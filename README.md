@@ -11,7 +11,7 @@
 6. js code
 7. https://prathameshjadhav043.github.io/Assginments/Calender
 8. https://prathameshjadhav043.github.io/Assginments/class9
-9. https://prathameshjadhav043.github.io/Assginments/Video Player
+9. https://prathameshjadhav043.github.io/Assginments/Video_Player
 
 
 

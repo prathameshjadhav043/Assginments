@@ -12,6 +12,7 @@
 7. https://prathameshjadhav043.github.io/Assginments/Calender
 8. https://prathameshjadhav043.github.io/Assginments/class9
 9. https://prathameshjadhav043.github.io/Assginments/Video_Player
+10. https://prathameshjadhav043.github.io/Assginments/Digital_clock/
 
 
 

@@ -21,6 +21,6 @@
 8. https://prathameshjadhav043.github.io/Assginments/class9
 9. https://prathameshjadhav043.github.io/Assginments/Video_Player
 10. https://prathameshjadhav043.github.io/Assginments/Dig_Clock
-11. https://prathameshjadhav043.github.io/Assginments/Colour_Change
+11. https://prathameshjadhav043.github.io/Assginments/Color_Change
 
 

@@ -1,6 +1,6 @@
 # Assginments
 
-1. https://prathameshjadhav043.github.io/myPortfolio
+1. https://prathameshjadhav043.github.io/Assginments/myPortfolio
 2. Task 1. ( https://prathameshjadhav043.github.io/Assginments/class2/Task1 )....
 
 

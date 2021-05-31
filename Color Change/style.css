@@ -1,0 +1,9 @@
+.container{
+    text-align: center;
+    top:50% ;
+}
+.btn{
+    background-color: gold;
+    border:  2px solid gold;
+    border-radius: 10%;
+}

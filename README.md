@@ -25,6 +25,6 @@
 
 Other Project
 1. https://prathameshjadhav043.github.io/Assginments/Parallax/Tiger
-
+2. https://prathameshjadhav043.github.io/Assginments/Parallax/Demo
 
 

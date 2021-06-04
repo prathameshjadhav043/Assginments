@@ -24,6 +24,7 @@
 11. https://prathameshjadhav043.github.io/Assginments/Color_Change
 
 Other Project
+1. https://prathameshjadhav043.github.io/Assginments/Parallax/Tiger
 
 
 

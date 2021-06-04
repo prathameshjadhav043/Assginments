@@ -1,0 +1,74 @@
+body, html{
+    height: 100;
+    margin: 0;
+    font-size: 16px;
+    font-family:"Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.pimg1, .pimg2, .pimg3 {
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg1{
+    background-image: url(../images/dandelion-5975473_1920.jpg);
+    min-height: 720px;
+}
+.pimg2{
+    background-image: url(../images/mountains-6067150_1920.jpg);
+    min-height: 400px;
+}
+.pimg3{
+    background-image: url(../images/sunset-5990540_1280.webp);
+    min-height: 400px;
+}
+
+.section{
+    text-align: center;
+    padding: 20px 80px;
+    opacity: 0.7;
+    
+}
+
+.section-light{
+    background-color: lightgreen;
+    color: #666:
+}
+
+.section-dark{
+    background-color:skyblue;
+    color: #ddd:
+}
+
+.section-simple{
+    background-color:lightpink;
+    color: #ddd:
+}
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.ptext .board {
+    background-color: black;
+    color: blanchedalmond;
+    padding: 20px;
+}
+
+.ptext .board.trans {
+    opacity: 0.8;
+}

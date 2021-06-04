@@ -1,0 +1,100 @@
+body, html {
+    height: 100;
+    margin: 0;
+    font-size: 15px;
+    font-family:Arial Bold;
+    font-weight: 400;
+    line-height: 1.5;
+    color:gray;
+}
+
+.pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6{
+    position: relative;
+    opacity: 0.70;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg1{
+    background-image: url(../images/bengal-tiger-1149535_1280.jpg);
+    min-height: 650px;
+}
+
+.pimg2{
+    background-image: url(../images/tiger-3264048_1920.jpg);
+    min-height: 550px;
+}
+
+.pimg3{
+    background-image: url(../images/tiger-3948712_1920.jpg);
+    min-height: 550px;
+}
+
+.pimg4{
+    background-image: url(../images/tiger-1741443_1280.jpg);
+    min-height: 550px;
+}
+
+.pimg5{
+    background-image: url(../images/tiger-4925778_1920.jpg);
+    min-height: 550px;
+}
+
+.pimg6{
+    background-image: url(../images/tiger-2320819_1920.jpg);
+    min-height: 550px;
+}
+
+.section{
+    text-align: center;
+    color: black;
+    padding: 30px 50px;
+    opacity: 0.7;
+}
+
+.intro{
+    background-color: rgb(106, 173, 106);
+}
+
+.Two{
+    background-color: chocolate;
+}
+
+.Three{
+    background-color: chocolate;
+}
+
+.Fourth{
+    background-color: rgb(180, 140, 52);
+}
+
+.Fith{
+    background-color: burlywood;
+}
+
+.sixth{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.ptext .board {
+    background-color: black;
+    color: blanchedalmond;
+    padding: 8px;
+}
+
+.ptext .board.trans {
+    opacity: 0.5;
+}

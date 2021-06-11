@@ -23,7 +23,10 @@
 10. https://prathameshjadhav043.github.io/Assginments/Dig_Clock
 11. https://prathameshjadhav043.github.io/Assginments/Color_Change
 
-Other Project
-
+Other Task
+1. https://prathameshjadhav043.github.io/Assginments/Parallax/Tiger
+2. https://prathameshjadhav043.github.io/Assginments/Parallax/Demo
+3. https://prathameshjadhav043.github.io/Assginments/Slideing_paragrap
+4. https://prathameshjadhav043.github.io/Assginments/FloobleHomePage
 
 

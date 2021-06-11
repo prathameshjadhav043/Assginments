@@ -125,3 +125,8 @@ html {
     background-color: aqua;
   }
 }
+@media only screen and (max-width: 768px){
+  .timeline-content{
+    transform: rotate(0deg);
+  }
+}
